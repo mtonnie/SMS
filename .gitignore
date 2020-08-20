@@ -1,5 +1,5 @@
 # Gitpod specific
-.theai
+.theia
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
